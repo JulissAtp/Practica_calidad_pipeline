@@ -1,7 +1,5 @@
-
+name: Mi Primer Pipeline de Calidad 
 on: [push] # Se activa con cada subida de código 
-
- 
 
 jobs: 
 
